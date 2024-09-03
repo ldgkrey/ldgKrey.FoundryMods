@@ -51,6 +51,16 @@ namespace LDGKrey.QCEnabler
                 FoundryCommands_CommandHandlers = null;
 
                 HelpCommandDelegate = null;
+                DragCommandDelegate = null;
+                TeleportCommandDelegate = null;
+                TeleportBackCommandDelegate = null;
+                MonitorCommandDelegate = null;
+                SkyPlatformCommandDelegate = null;
+                TimeCommandDelegate = null;
+                TimeSetCommandDelegate = null;
+                CalculateCommandDelegate = null;
+                CountCommandDelegate = null;
+                GiveCommandDelegate = null;
             }
         }
 
