@@ -1,0 +1,19 @@
+{
+    "name": "QuantumConsole",
+    "rootNamespace": "",
+    "references": [
+        "GUID:86acc7fdedb1d4147a94cd71f7d5ac74",
+        "GUID:0ea4188915c00fb4688accb5ae29f133",
+        "GUID:fb24642277b1db2449da7ac148ce939d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

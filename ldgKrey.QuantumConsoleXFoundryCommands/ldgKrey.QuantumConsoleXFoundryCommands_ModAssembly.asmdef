@@ -1,0 +1,23 @@
+{
+    "name": "ldgKrey.QuantumConsoleXFoundryCommands",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fb24642277b1db2449da7ac148ce939d",
+        "GUID:bbbdbf5226103114790f8e5faf0bf26b",
+        "GUID:86acc7fdedb1d4147a94cd71f7d5ac74"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "erkle64.FoundryCommands.dll",
+        "Main.dll",
+        "0Harmony.dll",
+        "Channel3.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

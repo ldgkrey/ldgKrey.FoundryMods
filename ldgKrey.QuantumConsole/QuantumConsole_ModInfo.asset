@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -360740676, guid: 1c83dc1f03b8cf43812e942694488c9e, type: 3}
+  m_Name: QuantumConsole_ModInfo
+  m_EditorClassIdentifier: 
+  identifier: ldgkrey.QuantumConsole
+  displayName: QuantumConsole
+  description: Ingame (Debug) Console with Command Support
+  modType: 2
+  thumbnail: 
+  assetBundles: []
+  assemblies: []
+  dependsOn:
+  - erkle64.Unfoundry
+  thumbnailTexture: {fileID: 2800000, guid: 5b2f68ea381855847a0068d793840c24, type: 3}
